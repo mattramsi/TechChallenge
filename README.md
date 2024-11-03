@@ -19,10 +19,6 @@ O **TechChallenge** é uma aplicação desenvolvida para atender a um desafio t�
 - **Docker**: Para criação de contêineres e facilitação da execução do projeto.
 - **MySQL**: Banco de dados utilizado.
 
-## Estrutura do Repositório
-
-TechChallenge/ │ ├── Dockerfile ├── docker-compose.yml ├── src/ │ ├── main/ │ ├── test/ │ └── README.md
-
 ## Como Iniciar o Projeto Localmente
 
 Para iniciar o projeto localmente, siga as instruções abaixo:
