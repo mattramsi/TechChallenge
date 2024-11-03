@@ -3,6 +3,8 @@ package com.techchallengev2.app.dto;
 public class CpfRequest {
     private String cpf;
 
+    public CpfRequest() {
+    }
     public CpfRequest(String cpf) {
         this.cpf = cpf;
     }
