@@ -39,5 +39,5 @@ Para iniciar o projeto localmente, siga as instruções abaixo:
 
 ## Construir e executar os contêineres:
 
-./mvnw clean install
-docker-compose -f docker_compose.yml up -d --build
+- ./mvnw clean install
+- docker-compose -f docker_compose.yml up -d --build
